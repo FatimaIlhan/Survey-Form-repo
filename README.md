@@ -1,3 +1,3 @@
 #Survey Form
 
-This survey form is camp registration form build with html and css
+ Camp Registration form build with html and css
